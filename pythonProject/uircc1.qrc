@@ -1,0 +1,32 @@
+<RCC>
+  <qresource prefix="image">
+    <file>校标1.png</file>
+    <file>校标.png</file>
+    <file>R-C (1).jpg</file>
+    <file>ground5.png</file>
+    <file>R-C.jpg</file>
+    <file>ground3.png</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>block.ico</file>
+    <file>Coffe.ico</file>
+    <file>globe.ico</file>
+    <file>folder.ico</file>
+    <file>bubble.ico</file>
+    <file>home.ico</file>
+    <file>Danger.ico</file>
+    <file>Decrease time.ico</file>
+    <file>Target1.ico</file>
+    <file>gear.ico</file>
+    <file>delete.ico</file>
+    <file>trash.ico</file>
+    <file>remove.png</file>
+    <file>left.ico</file>
+    <file>right.ico</file>
+    <file>statistics.ico</file>
+    <file>signal-4.png</file>
+    <file>software-development.png</file>
+    <file>agt_home.png</file>
+    <file>agt_back.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="image">
+    <file>image/ground5.png</file>
+    <file>image/grade.png</file>
+    <file>image/ground2.png</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>icon/19.gif</file>
+    <file>icon/Back.ico</file>
+    <file>icon/Cancel.ico</file>
+    <file>icon/edit_picture.png</file>
+    <file>icon/edit_user.png</file>
+    <file>icon/Square.ico</file>
+  </qresource>
+</RCC>
